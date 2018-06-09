@@ -12,7 +12,7 @@ var services = [
   {
 	title: "Galatians pt 3",
 	series: "Galatians",
-	speaker: "Pastor Dave Hobby",
+	speaker: "Pastor Dave Bobby",
 	date: "June 03, 2018",
 	video: "https://www.youtube.com/embed/eHNPAdFLiYw?amp;showinfo=0&rel=0",
 	image: "https://s33.postimg.cc/gnst8wozz/060418_Video_Title_Cover.jpg",
